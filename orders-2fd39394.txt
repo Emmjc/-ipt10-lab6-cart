@@ -1,0 +1,6 @@
+Order Code: 2fd39394
+Date: 2024-09-10 14:37:08
+Items:
+Product ID: 1 | Name: 1Kg Sugar | Price: 100 PHP
+Product ID: 1 | Name: 1Kg Sugar | Price: 100 PHP
+Total Price: 200 PHP

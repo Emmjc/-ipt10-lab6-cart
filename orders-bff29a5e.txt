@@ -1,0 +1,6 @@
+Order Code: bff29a5e
+Date: 2024-09-10 14:37:46
+Items:
+Product ID: 3 | Name: One Dozen Eggs | Price: 200 PHP
+Product ID: 3 | Name: One Dozen Eggs | Price: 200 PHP
+Total Price: 400 PHP

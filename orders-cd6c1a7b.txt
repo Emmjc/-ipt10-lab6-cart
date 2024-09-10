@@ -1,0 +1,9 @@
+Order Code: cd6c1a7b
+Date: 2024-09-10 14:37:22
+Items:
+Product ID: 4 | Name: 5Kg Sugar | Price: 500 PHP
+Product ID: 4 | Name: 5Kg Sugar | Price: 500 PHP
+Product ID: 5 | Name: 25Kg Rice | Price: 1200 PHP
+Product ID: 5 | Name: 25Kg Rice | Price: 1200 PHP
+Product ID: 6 | Name: One Tray Eggs | Price: 300 PHP
+Total Price: 3700 PHP
